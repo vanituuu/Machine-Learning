@@ -8,22 +8,22 @@ A machine "learns" by identifying patterns in data and improving its ability to 
 
 # Here is how the learning process works:
 
-# Data Input:
+**Data Input:**
 Machine needs data like text, images or numbers to analyze. Good quality and enough quantity of data are important for effective learning.
 
-# Algorithms: 
+**Algorithms:**
 Algorithms are mathematical methods that help the machine find patterns in data. Different algorithms help different tasks such as classification or regression.
 
-# Model Training: 
+**Model Training:** 
 During training, the machine adjusts its internal settings to better predict outcomes. It learns by reducing the difference between its predictions and actual results.
 
-# Feedback Loop: 
+**Feedback Loop:** 
 Machine compares its predictions with true outcomes and uses this feedback to correct errors. Techniques like gradient descent help it update and improve.
 
-# Experience and Iteration:
+**Experience and Iteration:**
 Machine repeats training many times with data helps in refining its predictions with each pass, more data and iterations improve accuracy.
 
-# Evaluation and Generalization: 
+**Evaluation and Generalization:**
 Model is tested on unseen data to ensure it performs well on real-world tasks.
 
 Machines "learn" by continuously increasing their understanding through data-driven iterations like how humans learn from experience.
@@ -46,5 +46,26 @@ Additionally, there is a more specific category called Semi-Supervised Learning 
 
 **Types of Machine Learning**
 
-1. Supervised Machine Learning
+# 1. Supervised Machine Learning
 Supervised learning is defined as when a model gets trained on a "Labeled Dataset". Labelled datasets have both input and output parameters. In Supervised Learning algorithms learn to map points between inputs and correct outputs. It has both training and validation datasets labelled.
+
+There are two main categories of supervised learning that are mentioned below:
+
+# 1. Classification
+Classification predicts categorical outputs, meaning it assigns data into predefined classes like spam/non-spam emails or disease risk categories. These algorithms learn to map input features to discrete labels. Here are some classification algorithms:
+
+**Logistic Regression**
+**Support Vector Machine**
+# 2. Regression
+Regression, predicts continuous values, such as house prices or product sales. It learns the relationship between input features and a numerical target variable. Here are some regression algorithms:
+
+**Linear Regression**
+Polynomial Regression
+
+**Where to Use Supervised Learning**
+
+When you have labeled data and want to predict outcomes.(Linear Regression)
+
+Ideal for classification (like spam detection) or regression tasks (like price forecasting).(Logistic Regression)
+
+Best used in domains where historical data with outcomes is already available.
