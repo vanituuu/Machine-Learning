@@ -39,3 +39,20 @@ Logistic Regression
 Random Forest
 
 SVM
+
+# Supervised Learning has 2 main types:
+
+1. Regression
+
+2. Classification
+
+
+# Regression
+# Definition:
+
+Regression is a type of supervised learning used to predict continuous (numerical) values.
+
+📌 Statement:
+
+The model learns the relationship between features (X) and a continuous target (Y), and predicts a number.
+
