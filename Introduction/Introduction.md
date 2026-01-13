@@ -1,6 +1,9 @@
 # Introduction to Machine Learning
 
 Machine learning (ML) allows computers to learn and make decisions without being explicitly programmed. It involves feeding data into algorithms to identify patterns and make predictions on new data. It is used in various applications like image recognition, speech processing, language translation, recommender systems, etc. In this article, we will see more about ML and its core concepts.
+**Machine learning-** for example yotube,netflix how they predict that what user want to see next.basically  
+ we gave some data and trained machine according to that data and want output on the basis of data.
+ instead of programming we gave a lot of data to machine and let them figure out the pattern their own
 
 
 # What Makes a Machine "Learn"?
@@ -30,8 +33,7 @@ Machines "learn" by continuously increasing their understanding through data-dri
 
 
 # Types of Machine Learning
-
-Machine Learning (ML) is a subfield of Artificial Intelligence (AI) that focuses on building algorithms and models that enable computers to learn from data and improve with experience without explicit programming for every task. In simple words, Machine Learning teaches systems to learn patterns and make decisions like humans by analyzing and learning from data.
+In simple words, Machine Learning teaches systems to learn patterns and make decisions like humans by analyzing and learning from data.
 
 # Three Type Machine
 
@@ -40,9 +42,6 @@ Machine Learning (ML) is a subfield of Artificial Intelligence (AI) that focuses
 **Unsupervised Machine Learning**
 
 **Reinforcement Learning**
-
-Additionally, there is a more specific category called Semi-Supervised Learning and Self-Supervised Learning, which combines elements of both supervised and unsupervised learning
-
 
 **Types of Machine Learning**
 
