@@ -1,10 +1,12 @@
 # Introduction to Machine Learning
 
 Machine learning (ML) allows computers to learn and make decisions without being explicitly programmed. It involves feeding data into algorithms to identify patterns and make predictions on new data. It is used in various applications like image recognition, speech processing, language translation, recommender systems, etc. In this article, we will see more about ML and its core concepts.
+
 **Machine learning-** for example yotube,netflix how they predict that what user want to see next.basically  
  we gave some data and trained machine according to that data and want output on the basis of data.
  instead of programming we gave a lot of data to machine and let them figure out the pattern their own
 
+**Machine Learning Defination -** Arthur samuel(1959) Machine learning : Field of study that gives computers the ability to learn without being explicitly programmed.
 
 # What Makes a Machine "Learn"?
 A machine "learns" by identifying patterns in data and improving its ability to perform specific tasks without being explicitly programmed for every scenario. This learning process helps machines to make accurate predictions or decisions based on the information they receive. Unlike traditional programming where instructions are fixed, ML allows models to adapt and improve through experience.
